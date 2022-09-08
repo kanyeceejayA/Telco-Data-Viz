@@ -1,0 +1,14 @@
+{
+  "name": "97c4d55ae0dfb397",
+  "main": "97c4d55ae0dfb397@851.js",
+  "version": "851.0.0",
+  "homepage": "https://observablehq.com/d/97c4d55ae0dfb397",
+  "author": {
+    "name": "Kanyesigye Akbr",
+    "url": "https://observablehq.com/@kanyesigye"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
